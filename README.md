@@ -65,7 +65,7 @@ Combine the power of two open-source Vietnamese language models:
 
 | Role                          | Contributor(s)                 |
 | ----------------------------- | ------------------------------ |
-| **💻 Model Design** |   [Phan Hoang Hai](https://github.com/ToJupiter), [Dang Phuong Nam](https://github.com/fdv45fs) |
-| **🗄️ Implementation**                 | [Phan Hoang Hai](https://github.com/ToJupiter)|
+| **💻 Model Design** |   [Phan Hoang Hai](https://github.com/ToJupiter), [Dang Phuong Nam](https://github.com/fdv45fs), [Do Binh Minh](https://github.com/dobinhminh06) |
+| **🗄️ Implementation**                 | [Phan Hoang Hai](https://github.com/ToJupiter), [Do Binh Minh](https://github.com/dobinhminh06)|
 
 We hope you enjoy! If you have any questions or feedback, don't hesitate to reach out! 😊
