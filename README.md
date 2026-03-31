@@ -61,11 +61,4 @@ Combine the power of two open-source Vietnamese language models:
         🔟
 
 ---
-## 🌟 Credits
-
-| Role                          | Contributor(s)                 |
-| ----------------------------- | ------------------------------ |
-| **💻 Model Design**  |[Do Binh Minh](https://github.com/dobinhminh06) |
-| **🗄️ Implementation**|[Do Binh Minh](https://github.com/dobinhminh06)|
-
 We hope you enjoy! If you have any questions or feedback, don't hesitate to reach out! 😊
